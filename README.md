@@ -1,1 +1,0 @@
-# Steps-to-install-Rose1-on-ubuntu-and-download-ros2-on-jetson-nano
